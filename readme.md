@@ -1,6 +1,14 @@
-# Grand visions for the plenary discussion to tie into 
+
+
+## Table of Contents
+- [Grand visions for the plenary discussion to tie into](#grand-visions-for-the-plenary-discussion-to-tie-into)
+- [2026-05-01 genAI ideas for session](#2026-05-01-genai-ideas-for-session)
+  - [OHDSI Plenary: Customizing the Tool Stack — Interleaved Run-of-Show and Facilitation Plan](#ohdsi-plenary-customizing-the-tool-stack--interleaved-run-of-show-and-facilitation-plan)
+- [Plenary submission](#plenary-submission)
 
 Below are ambitious, community-wide goals that become feasible when data are standardized to the OMOP Common Data Model and analyzed with reproducible OHDSI methods.
+
+# Grand visions for the plenary discussion to tie into
 
 ## 1) Safety at planetary scale (pharmacovigilance)
 - Vision: An always-on, calibrated, all-by-all signal grid of every marketed drug against every clinically meaningful safety outcome.

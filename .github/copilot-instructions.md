@@ -1,0 +1,1 @@
+The purpose of this project is to make a running list of notes for our OHDSI plenary presentation. New content will be added to the top of the readme.md document. 
