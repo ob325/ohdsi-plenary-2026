@@ -8,6 +8,45 @@
 
 Below are ambitious, community-wide goals that become feasible when data are standardized to the OMOP Common Data Model and analyzed with reproducible OHDSI methods.
 
+[ ] - Poster opportunity for follow-up 
+Ask Patrick if they can have a poster automatically accepted 
+Ask Patrick for magnetic tile money and board (word bank) 
+
+[ ] - Notify our friends:
+I will draft an email w basic info about lightning talks, magnetic poetry, live mad libs, Scott can send. Give a good amount of notice, a couple blocks of time. 
+- Agnes (EST + 7 hrs) 
+- Martin (EST) 
+- Cindy (EST) 
+- Hannah (EST) 
+- Scott (MT)
+- Bill (EST) 
+
+
+
+# Notes from 2026-05-22 meeting
+
+One‑sentence story (the “what and why”) “I used [tool or method] to explore [topic/problem] in [data setting] by [what you did], which helped me [result] while dealing with [constraint].”
+Example: “I used a cohort tool to explore heart failure readmissions in hospital data by defining a clear patient group, which helped me spot high‑risk patterns while dealing with strict privacy rules.”
+Define a group (cohort) and what you’re watching for “We defined a group of [who/criteria], looked for [outcome/event] within [time window], and made sure people had [clean period/no prior history] before counting events.”
+Example: “We defined adults with new diabetes diagnoses, looked for ER visits within 90 days, and made sure they had no previous ER visits in the past year.”
+Compare two groups (simple comparison) “We compared [group A] to [group B] to see if [outcome] was different. We adjusted for [important factors], and checked that groups were similar using [simple check].”
+Example: “We compared people starting Drug A to those starting Drug B to see who had more falls. We adjusted for age and prior falls, and checked similarity using side‑by‑side counts.”
+Build a prediction (who is likely to have something happen) “We built a prediction for [event/outcome] over [time frame]. We used [simple model type] with [key settings, if any], trained on about [size], and measured performance with [metric like accuracy/AUC].”
+Example: “We built a prediction for 30‑day readmission using a simple logistic regression, trained on 50,000 patients, and measured performance with AUC.”
+Make it run faster or smoother (performance) “To speed things up on [database/computer setup], we [action: sample, parallelize, cache, simplify]. Run time dropped from [X] to [Y], and memory stayed under [limit], without hurting [key metric].”
+Example: “To speed things up on our shared server, we ran tasks in parallel and cached intermediate results. Run time dropped from 6 hours to 2 hours without hurting accuracy.”
+Privacy and sharing (governance) “Because of [privacy rule/constraint], we kept data local and only shared [summaries/metrics/plots]. We packaged results as [format] so partners could review without seeing individual records.”
+Example: “Because of local privacy rules, we kept data on site and only shared summary tables and plots as a PDF.”
+Troubleshooting and wish list “The hardest part was [pain point], especially with [scale/database/tool]. If we could change one thing, we’d add [improvement], which would help [stakeholder] [benefit].”
+Example: “The hardest part was slow feature creation on our big database. We’d add more parallel processing, which would help analysts finish studies faster.”
+Quick prototype (30‑second version) “I used [tool] plus [small tweak] on [data] to answer [question] within [time budget], trading off [speed vs. detail] to get [useful result].”
+Example: “I used a simple SQL script plus a small filter on hospital data to answer ‘Which wards have rising falls?’ in one afternoon, trading detail for speed.”
+Validation and transportability (does it work elsewhere?) “We trained on [site/data A] and tested on [site/data B]. We adjusted [features/settings] to handle differences in [coding or missingness], keeping performance within [acceptable range].”
+Example: “We trained at Hospital A and tested at Hospital B. We simplified features to handle missing labs, keeping AUC within 0.02 of the original.”
+Clear communication (show and tell) “To explain results to [audience], we created [simple plot/report] highlighting [key comparison or trend], added notes on [uncertainty/calibration], and a short summary with [actionable takeaway].”
+Example: “For clinicians, we created a bar chart showing readmissions by ward, added notes about uncertainty, and summarized the top three actions.”
+
+
 # Grand visions for the plenary discussion to tie into
 
 ## 1) Safety at planetary scale (pharmacovigilance)
