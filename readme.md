@@ -6,6 +6,14 @@
   - [OHDSI Plenary: Customizing the Tool Stack — Interleaved Run-of-Show and Facilitation Plan](#ohdsi-plenary-customizing-the-tool-stack--interleaved-run-of-show-and-facilitation-plan)
 - [Plenary submission](#plenary-submission)
 
+# Notes from 2026-07-22 meeting
+Bill & Scott 
+- [ ] Bill will generate magnetic tile words, ask patrick for money
+- [ ] Scott will send meeting invite ASAP, Bill will handle the meeting if Scott's away  
+
+
+
+
 Below are ambitious, community-wide goals that become feasible when data are standardized to the OMOP Common Data Model and analyzed with reproducible OHDSI methods.
 
 [ ] - Poster opportunity for follow-up 
