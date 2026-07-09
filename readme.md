@@ -9,225 +9,445 @@
 # word bank
 
 causal inference
+
 causal effect
+
 causal question
+
 estimand
+
 target trial
+
 target trial emulation
+
 counterfactual
+
 potential outcome
+
 treatment effect
+
 average treatment effect
+
 ATT
+
 ATE
+
 exposure
+
 treatment
+
 intervention
+
 comparator
+
 control group
+
 outcome
+
 baseline
+
 follow-up
+
 time zero
+
 index date
+
 eligibility criteria
+
 treatment strategy
+
 assignment strategy
+
 observation period
+
 risk window
+
 washout period
+
 lookback period
+
 grace period
+
 censoring
+
 competing risk
+
 selection bias
+
 confounding
+
 unmeasured confounding
+
 residual confounding
+
 confounding by indication
+
 immortal time bias
+
 surveillance bias
+
 information bias
+
 measurement error
+
 misclassification
+
 missing data
+
 exchangeability
+
 positivity
+
 consistency
+
 identifiability
+
 internal validity
+
 external validity
+
 transportability
+
 generalizability
+
 causal graph
+
 DAG
+
 confounder
+
 mediator
+
 collider
+
 effect modifier
+
 interaction
+
 covariate
+
 baseline covariate
+
 time-varying covariate
+
 propensity score
+
 propensity score matching
+
 propensity score stratification
+
 inverse probability weighting
+
 covariate adjustment
+
 regression adjustment
+
 standardization
+
 g-computation
+
 marginal structural model
+
 instrumental variable
+
 difference-in-differences
+
 regression discontinuity
+
 interrupted time series
+
 case-crossover design
+
 self-controlled design
+
 active comparator
+
 new-user design
+
 active comparator new user
+
 prevalent user
+
 incident user
+
 cohort study
+
 case-control study
+
 observational study
+
 real-world data
+
 real-world evidence
+
 claims data
+
 electronic health records
+
 registry data
+
 risk difference
+
 risk ratio
+
 odds ratio
+
 hazard ratio
+
 incidence rate ratio
+
 confidence interval
+
 standard error
+
 sensitivity analysis
+
 negative control
+
 positive control
+
 empirical calibration
+
 OHDSI
+
 OMOP
+
 OMOP CDM
+
 ATLAS
+
 WebAPI
+
 HADES
+
 Achilles
+
 ARES
+
 Broadsea
+
 Strategus
+
 Circe
+
 SqlRender
+
 DatabaseConnector
+
 FeatureExtraction
+
 CohortMethod
+
 CohortDiagnostics
+
 PatientLevelPrediction
+
 EvidenceSynthesis
+
 SelfControlledCaseSeries
+
 DataQualityDashboard
+
 The Book of OHDSI
+
 Cyclops
+
 Andromeda
+
 Eunomia
+
 Hydra
+
 Usagi
+
 WhiteRabbit
+
 RabbitInAHat
+
 ROhdsiWebApi
+
 ParallelLogger
+
 ResultModelManager
+
 OhdsiShinyModules
+
 PheValuator
+
 PhenotypeLibrary
+
 Capr
+
 CohortGenerator
+
 IncidencePrevalence
+
 TreatmentPatterns
+
 DeepPatientLevelPrediction
+
 MethodEvaluation
+
 LEGEND
+
 LEGEND-T2DM
+
 LEGEND-HTN
+
 LEGEND-AF
+
 LEGEND-HF
+
 EHDEN
+
 DARWIN EU
+
 Observational Health Data Sciences and Informatics
+
 common data model
+
 standard vocabulary
+
 OMOP vocabulary
+
 concept set
+
 concept set expression
+
 cohort definition
+
 cohort generation
+
 cohort instantiation
+
 cohort characterization
+
 phenotype
+
 computable phenotype
+
 phenotype validation
+
 phenotype diagnostics
+
 target cohort
+
 comparator cohort
+
 outcome cohort
+
 exposure cohort
+
 cohort table
+
 cohort entry
+
 cohort exit
+
 cohort era
+
 index event
+
 initial event
+
 inclusion criteria
+
 exclusion criteria
+
 attrition
+
 attrition table
+
 inclusion impact
+
 population-level estimation
+
 evidence network
+
 evidence generation
+
 network evidence
+
 network study
+
 distributed research network
+
 federated analysis
+
 study package
+
 study protocol
+
 analysis specification
+
 study diagnostics
+
 diagnostics
+
 data quality
+
 data characterization
+
 source-to-concept mapping
+
 ETL
+
 ETL design
+
 ETL validation
+
 vocabulary mapping
+
 vocabulary harmonization
+
 clinical vocabulary
+
 standardized data
+
 database diagnostics
+
 Achilles Heel
+
 characterization dashboard
+
 evidence explorer
+
 open evidence
+
 open science
+
 reproducible research
+
 standardized analytics
+
 large-scale analytics
+
 high-throughput analytics
+
 comparative effectiveness
+
 drug utilization
+
 safety surveillance
+
 incidence estimation
+
 prevalence estimation
+
 calibration
+
 negative control outcome
+
 positive control outcome
+
 synthetic positive control
+
 empirical null
+
 calibrated confidence interval
+
 calibrated p-value
+
 
 # Notes from 2026-07-22 meeting
 Bill & Scott 
