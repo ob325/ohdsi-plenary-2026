@@ -8,133 +8,261 @@
 
 # word bank (n=120)
 absolute risk
+
 Achilles
+
 active comparator
+
 as-treated
+
 ATLAS
+
 attributable risk
+
 AUC
+
 calibration
+
 causal DAG
+
 causal effect
+
 censoring
+
 characterization
+
 clean window
+
 cohort definition
+
 cohort diagnostics
+
 cohort entry
+
 cohort exit
+
 CohortGenerator
+
 CohortMethod
+
 collider
+
 comparator cohort
+
 competing risk
+
 concept ancestor
+
 concept descendant
+
 concept set
+
 condition era
+
 condition occurrence
+
 confidence interval
+
 confounding
+
 confounding by indication
+
 consistency
+
 counterfactual
+
 covariate balance
+
 Cox model
+
 CPT
+
 data partner
+
 Data Quality Dashboard
+
 death table
+
 discrimination
+
 distributed analysis
+
 drug era
+
 drug exposure
+
 effect modifier
+
 empirical calibration
+
 era construction
+
 estimand
+
 EvidenceSynthesis
+
 exchangeability
+
 exclusion criteria
+
 false discovery rate
+
 FeatureExtraction
+
 federated network
+
 follow-up
+
 generalizability
+
 HADES
+
 hazard ratio
+
 heterogeneity
+
 high-dimensional covariates
+
 ICD
+
 immortal time bias
+
 imputation
+
 incidence characterization
+
 incidence rate
+
 inclusion criteria
+
 index date
+
 information bias
+
 intention-to-treat
+
 inverse probability weighting
+
 Kaplan-Meier
+
 likelihood
+
 LOINC
+
 logistic regression
+
 measurement
+
 measurement error
+
 mediator
+
 missing data
+
 multiple testing
+
 negative control exposure
+
 negative control outcome
+
 net benefit
+
 new-user design
+
 observation period
+
 odds ratio
+
 OHDSI
+
 OMOP CDM
+
 outcome cohort
+
 PatientLevelPrediction
+
 per-protocol
+
 person table
+
 phenotype
+
 Poisson regression
+
 positivity
+
 positive control
+
 prediction model
+
 prevalence
+
 prevalent user bias
+
 procedure occurrence
+
 propensity score
+
 propensity score matching
+
 p-value
+
 real-world evidence
+
 regularized regression
+
 reproducible research
+
 residual confounding
+
 risk difference
+
 risk ratio
+
 RxNorm
+
 selection bias
+
 SelfControlledCaseSeries
+
 sensitivity analysis
+
 SNOMED
+
 source concept
+
 standard concept
+
 standardized mean difference
+
 Strategus
+
 stratification
+
 study package
+
 subgroup analysis
+
 target cohort
+
 target trial emulation
+
 time at risk
+
 transportability
+
 treatment pathway
+
 unmeasured confounding
+
 validation
+
 visit occurrence
+
 vocabulary mapping
+
 washout period
+
 WebAPI
 
 
