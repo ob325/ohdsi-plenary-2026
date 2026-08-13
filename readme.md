@@ -6,6 +6,19 @@
   - [OHDSI Plenary: Customizing the Tool Stack — Interleaved Run-of-Show and Facilitation Plan](#ohdsi-plenary-customizing-the-tool-stack--interleaved-run-of-show-and-facilitation-plan)
 - [Plenary submission](#plenary-submission)
 
+# 2026-08-13
+
+Bill will have final draft of slides Tuesday. 
+
+Scott will reach out to Craig for OHDSI Africa participants in panel.
+
+Scott will review. We will send out template to participants. 
+
+Templates for poetry: 
+- What is a problem you're tackling now? (wants) 
+- What is a solution you're implemented? (wins)
+- Ode to OHDSI 
+
 # word bank (n=120)
 absolute risk
 
